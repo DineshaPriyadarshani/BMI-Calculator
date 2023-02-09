@@ -36,3 +36,61 @@
     transform: rotate(360deg);
   }
 }
+
+.app-container {
+
+}
+
+.navbar {
+  background-color: darkslateblue;
+}
+
+.nav-link {
+  color: white;
+  font-weight: bold;
+}
+
+.home-container {
+ 
+}
+
+.calc-container {
+  background-color: aliceblue;
+}
+
+/* .form-container */
+
+.page-header {
+  display: flex;
+  justify-content: center;
+  background-color: #61dafb;
+  padding: 10px;
+}
+
+.page-body {
+  padding: 20px;
+}
+
+.icon {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.icon-label {
+    font-size: 50px;
+}
+
+.color {
+  color: green;
+}
+
+.content-left {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.radio-padding {
+  padding-left: 35px !important;
+  padding-top: 10px;
+}

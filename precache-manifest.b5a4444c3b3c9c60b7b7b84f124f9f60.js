@@ -24,12 +24,16 @@ self.__precacheManifest = [
     "url": "/BMI-Calculator/static/js/3.25d10edb.chunk.js"
   },
   {
-    "revision": "af7ae505a9eed503f8b8e6982036873e",
-    "url": "/BMI-Calculator/static/media/fontawesome-webfont.af7ae505.woff2"
+    "revision": "912ec66d7572ff821749319396470bde",
+    "url": "/BMI-Calculator/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/BMI-Calculator/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "af7ae505a9eed503f8b8e6982036873e",
+    "url": "/BMI-Calculator/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
@@ -38,10 +42,6 @@ self.__precacheManifest = [
   {
     "revision": "b06871f281fee6b241d60582ae9369b9",
     "url": "/BMI-Calculator/static/media/fontawesome-webfont.b06871f2.ttf"
-  },
-  {
-    "revision": "912ec66d7572ff821749319396470bde",
-    "url": "/BMI-Calculator/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
     "revision": "1b0ba52cdcc3e8c652e23981906dcf98",
